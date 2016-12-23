@@ -1,0 +1,456 @@
+﻿X,Y,OBJECTID,Injury,Fatality,Year,CollisionType,Weather,Light,RoadSurface,TrafficControl,City,CrashSeverity
+-88.273457737925312,40.143950695178752,1,2,0,2010,Pedestrian,Clear,Daylight,Wet,No Controls,Unincorporated,A-Injury
+-88.204974194955255,40.105638345246717,2,1,0,2010,Pedestrian,Rain,Daylight,Wet,Stop Sign/Flasher,Urbana,B-Injury
+-88.25084867770002,40.098115824207959,3,0,1,2010,Pedestrian,Fog/Smoke/Haze,"Darkness, lighted road",Wet,Other,Champaign,Fatal
+-88.233769363628838,40.121452569316617,4,1,0,2010,Pedestrian,Clear,"Darkness, lighted road",Wet,No Controls,Champaign,A-Injury
+-88.218726910400463,40.110596259930766,5,1,0,2010,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,B-Injury
+-88.219327106094184,40.110671705109588,6,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.235493705577383,40.107970353139514,7,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.238945321304072,40.138017246859519,8,1,0,2010,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,C-Injury
+-88.253948685412752,40.112657034418611,9,1,0,2010,Pedestrian,Rain,Daylight,Wet,No Controls,Champaign,A-Injury
+-88.222396092792252,40.112840293533694,10,1,0,2010,Pedestrian,Clear,"Darkness, lighted road",Dry,Stop Sign/Flasher,Urbana,C-Injury
+-88.2386540840034,40.104106957601758,11,1,0,2010,Pedestrian,Rain,Daylight,Wet,Stop Sign/Flasher,Champaign,C-Injury
+-88.190816245634807,40.129582039807325,12,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,B-Injury
+-88.22832076669151,40.083507683722296,13,1,0,2010,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,A-Injury
+-88.183216369522398,40.098806126152333,14,1,0,2010,Pedestrian,Rain,"Darkness, lighted road",Wet,No Controls,Urbana,B-Injury
+-88.209467656559454,40.112430889825198,15,0,1,2010,Pedestrian,Clear,Dusk,Dry,No Controls,Urbana,Fatal
+-88.257914095266258,40.142637656064394,16,1,0,2010,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Champaign,B-Injury
+-88.248430276888072,40.144557309186453,17,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.251148089129117,40.128810778848049,18,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.272499014528151,40.112809310223376,19,0,1,2010,Pedestrian,Clear,"Darkness, lighted road",Dry,Lane Use Marking,Champaign,Fatal
+-88.230571595765468,40.123115718471183,20,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.222213220654837,40.116427670052431,21,1,0,2010,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,A-Injury
+-88.254215635955219,40.112657502568496,22,1,0,2010,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.235406797005666,40.110278347501136,23,1,0,2010,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.276421988233608,40.11285373982075,24,1,0,2010,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,A-Injury
+-88.285921497044512,40.098388846117629,25,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.257987186872754,40.131044175710912,26,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.272120007671077,40.134356786693047,27,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.219266589091049,40.107415034876723,28,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.279907677113755,40.098316682046132,29,1,0,2010,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,C-Injury
+-88.226977590341193,40.110475895408335,30,1,0,2010,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Urbana,C-Injury
+-88.190705573400109,40.098418107316775,31,1,0,2010,Pedestrian,Clear,Darkness,Dry,Traffic Signal,Urbana,C-Injury
+-88.244594133067793,40.098100953433629,32,1,0,2010,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,A-Injury
+-88.207416002685392,40.112467912293674,33,1,0,2010,Pedestrian,Clear,Daylight,Dry,Other,Urbana,B-Injury
+-88.223934841999153,40.111041344082253,34,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.176782897835963,40.105528643848743,35,0,0,2010,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,Property Damage
+-88.249615511245878,40.098106830434112,36,1,0,2010,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.152376852163485,40.308226386070629,37,1,0,2010,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Rantoul,B-Injury
+-88.272838383873605,40.127387979272264,39,1,0,2010,Pedestrian,Snow,Daylight,Snow or Slush,No Controls,Champaign,B-Injury
+-88.286065914665954,40.112918453212146,40,1,0,2010,Pedestrian,Clear,Daylight,Snow or Slush,Traffic Signal,Champaign,A-Injury
+-88.171528197981814,40.10773792108435,41,1,0,2010,Pedestrian,Snow,Darkness,Snow or Slush,No Controls,Unincorporated,A-Injury
+-88.268460753013642,40.12731933321902,42,1,0,2010,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,A-Injury
+-88.200637420844856,40.128924267147632,43,1,0,2011,Pedestrian,Clear,Darkness,Wet,No Controls,Urbana,B-Injury
+-88.227957698565675,40.110411902039218,44,1,0,2011,Pedestrian,Clear,Dusk,Snow or Slush,No Controls,Urbana,C-Injury
+-88.257914603353086,40.12217904321772,45,1,0,2011,Pedestrian,Clear,Daylight,Snow or Slush,No Controls,Champaign,B-Injury
+-88.189688191599515,40.144003333916778,46,1,0,2011,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,B-Injury
+-88.243514873643235,40.11636707707779,47,1,0,2011,Pedestrian,Clear,Darkness,Dry,Other,Champaign,A-Injury
+-88.190705559898859,40.09841738313861,48,1,0,2011,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Urbana,A-Injury
+-88.233554962496143,40.11267671079441,49,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Wet,Traffic Signal,Champaign,B-Injury
+-88.208924911628301,40.111598138815573,50,1,0,2011,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Urbana,B-Injury
+-88.234475828619679,40.104138861595089,51,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.190705564084993,40.098417603851068,52,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Urbana,B-Injury
+-88.203604798602797,40.105648074840246,53,1,0,2011,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,A-Injury
+-88.204928417573583,40.10930745789431,54,1,0,2011,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,B-Injury
+-88.195667516816442,40.105697137429509,55,1,0,2011,Pedestrian,Rain,Darkness,Wet,No Controls,Urbana,A-Injury
+-88.235398264252254,40.112658026263439,56,1,0,2011,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.235607421682531,40.11634865413064,57,1,0,2011,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.190691504478735,40.097641114550655,58,1,0,2011,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.190705560875529,40.09841742898324,59,1,0,2011,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Urbana,C-Injury
+-88.245223200873497,40.121304089807531,60,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,A-Injury
+-88.232085785697976,40.112687842897074,61,1,0,2011,Pedestrian,Clear,Darkness,Dry,Stop Sign/Flasher,Champaign,A-Injury
+-88.245195420422121,40.115347571561976,62,2,0,2011,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,C-Injury
+-88.230294271918069,40.104178847270276,63,1,0,2011,Pedestrian,Rain,Darkness,Wet,Traffic Signal,Champaign,B-Injury
+-88.203793748228932,40.112546975121361,64,1,0,2011,Pedestrian,Clear,Darkness,Dry,Stop Sign/Flasher,Urbana,C-Injury
+-88.233554962496143,40.11267671079441,65,2,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,A-Injury
+-88.219245268679316,40.1059863118804,66,1,0,2011,Pedestrian,Rain,Daylight,Wet,Traffic Signal,Urbana,B-Injury
+-88.205004908410842,40.103697518952259,67,1,0,2011,Pedestrian,Clear,Darkness,Dry,School Zone,Urbana,A-Injury
+-88.227895892460012,40.110415914870259,68,1,0,2011,Pedestrian,Clear,Daylight,Dry,Other,Urbana,C-Injury
+-88.207429750557679,40.112998356484376,69,2,0,2011,Pedestrian,Rain,Darkness,Wet,No Controls,Urbana,A-Injury
+-88.219546591377821,40.127377124530462,70,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Urbana,B-Injury
+-88.257915845865469,40.118277008240405,71,1,0,2011,Pedestrian,Rain,Darkness,Wet,Traffic Signal,Champaign,A-Injury
+-88.246882483988273,40.083576967902538,72,0,0,2011,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Champaign,Property Damage
+-88.246816668095377,40.112617392291668,73,1,0,2011,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Champaign,A-Injury
+-88.23029496366847,40.104178839650302,74,1,0,2011,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Champaign,B-Injury
+-88.24849603730928,40.112617793453268,75,1,0,2011,Pedestrian,Clear,Daylight,Snow or Slush,No Controls,Champaign,A-Injury
+-88.295216625197853,40.092755100772507,76,0,1,2011,Pedestrian,Clear,Darkness,Ice,No Controls,Champaign,Fatal
+-88.212825727969332,40.116496187074297,77,0,1,2011,Pedestrian,Rain,Darkness,Wet,Traffic Signal,Urbana,Fatal
+-88.233577120396561,40.110151054265813,78,1,0,2011,Pedestrian,Rain,"Darkness, lighted road",Wet,No Controls,Champaign,A-Injury
+-88.223854600334676,40.105366432080324,79,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,B-Injury
+-88.285864645017753,40.09940715552073,80,1,0,2011,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.219477273627319,40.121202678563407,81,1,0,2011,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,A-Injury
+-88.219488800035194,40.125553421395971,82,2,0,2011,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,B-Injury
+-88.233568340251381,40.116362405765656,83,1,0,2011,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.155805430351208,40.308198216474445,84,0,1,2011,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Rantoul,Fatal
+-88.223161829410998,40.113556856184154,85,1,0,2011,Pedestrian,Rain,Daylight,Wet,No Controls,Urbana,B-Injury
+-88.233496220297212,40.104147212295651,86,1,0,2011,Pedestrian,Clear,Daylight,Dry,Other Warning Sign,Champaign,B-Injury
+-88.233555182298417,40.114436580299056,87,1,0,2011,Pedestrian,Rain,Darkness,Wet,Stop Sign/Flasher,Champaign,A-Injury
+-88.238825034003,40.128481847280419,88,1,0,2011,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.238714800941665,40.110237405891986,89,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,B-Injury
+-88.14122895296714,40.32158934414656,90,1,0,2011,Pedestrian,Other,Dusk,Dry,No Controls,Rantoul,A-Injury
+-88.257990889760492,40.132453390017417,91,1,0,2011,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,B-Injury
+-88.212646606825317,40.116498397868568,92,1,0,2012,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.223945775150341,40.111380522675582,93,1,0,2012,Pedestrian,Rain,"Darkness, lighted road",Wet,Lane Use Marking,Urbana,A-Injury
+-88.24579458904843,40.130444529501361,94,1,0,2012,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,C-Injury
+-88.22569575779211,40.116407512102363,95,1,0,2012,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Urbana,C-Injury
+-88.209546329038346,40.116517514664125,96,0,1,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,Lane Use Marking,Urbana,Fatal
+-88.173535752876916,40.105816904936596,97,1,0,2012,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,A-Injury
+-88.388828773958025,40.187623961234763,98,1,0,2012,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Mahomet,A-Injury
+-88.204925938111771,40.109307510047778,99,1,0,2012,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,B-Injury
+-88.190795021713797,40.102417171493585,100,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.24510459248711,40.105734511371864,101,1,0,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,B-Injury
+-88.223885756245963,40.109087512240102,102,1,0,2012,Pedestrian,Clear,Dusk,Dry,Stop Sign/Flasher,Urbana,C-Injury
+-88.219135754430781,40.100657509662121,103,1,0,2012,Pedestrian,Rain,Daylight,Wet,Traffic Signal,Urbana,C-Injury
+-88.276715649160153,40.110337507372293,104,1,0,2012,Pedestrian,Other,Daylight,Wet,Stop Sign/Flasher,Champaign,C-Injury
+-88.204610423926553,40.101826972285842,105,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.268194481163007,40.127316044187175,106,1,0,2012,Pedestrian,Clear,Daylight,Wet,Traffic Signal,Champaign,A-Injury
+-88.190705587707129,40.098417418310319,107,1,0,2012,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.238715689004351,40.110237417323361,108,1,0,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,A-Injury
+-88.219325756047866,40.110577512723538,109,1,0,2012,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Urbana,C-Injury
+-88.219385966366517,40.112837669391418,110,1,0,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Urbana,A-Injury
+-88.203605751010187,40.118907513705949,111,1,0,2012,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Urbana,C-Injury
+-88.227990206558403,40.104200847434228,112,1,0,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,Other Warning Sign,Urbana,A-Injury
+-88.162720888869202,40.283825569075589,113,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Rantoul,B-Injury
+-88.162050895496293,40.302171163047404,114,1,0,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Rantoul,C-Injury
+-88.042590602737633,40.127921148507944,115,1,0,2012,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,B-Injury
+-88.04420796984202,40.120348563815902,116,1,0,2012,Pedestrian,Rain,Darkness,Wet,Other Regualtory Sig,St Joseph,B-Injury
+-88.273397844369441,40.130991932170851,117,1,0,2012,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,B-Injury
+-88.219205712363859,40.103707674865625,118,3,0,2012,Pedestrian,Rain,Daylight,Wet,Other,Urbana,A-Injury
+-88.241883681333576,40.134890215406301,119,1,0,2012,Pedestrian,Clear,Darkness,Dry,Lane Use Marking,Champaign,C-Injury
+-88.207413951848551,40.112467545239028,120,1,0,2012,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,B-Injury
+-88.246705992203374,40.122157514275159,121,1,0,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,A-Injury
+-87.994577199420505,39.910124685191356,122,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Broadlands,B-Injury
+-88.1922969514588,40.122244636776031,123,1,0,2012,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,B-Injury
+-88.233576146522921,40.110287605129358,124,1,0,2012,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.228121558493527,40.110401865815867,125,1,0,2012,Pedestrian,Clear,Daylight,Dry,Other Warning Sign,Urbana,B-Injury
+-88.221518639803307,40.106906664365226,126,1,0,2012,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,C-Injury
+-88.236126665051756,40.101489271482414,127,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.261126931839115,40.149088228440938,128,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.350508335610797,40.098301607582279,129,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,B-Injury
+-88.207565893229287,40.11165932576084,130,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.238676896681596,40.105511469158522,131,1,0,2012,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Champaign,B-Injury
+-88.176241638542834,40.109899711564935,132,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,C-Injury
+-88.27591383786887,40.129398207718957,133,1,0,2012,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,A-Injury
+-88.249885040975002,40.115328686415801,134,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.233335726384112,40.098097951509985,135,1,0,2012,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,C-Injury
+-88.181286741560768,40.105699610274435,136,1,0,2012,Pedestrian,Rain,Daylight,Wet,Stop Sign/Flasher,Urbana,B-Injury
+-88.233915341731787,40.114439529705017,137,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.219305827743781,40.109102834609537,138,0,0,2012,Pedestrian,Clear,Darkness,Dry,Traffic Signal,Urbana,Property Damage
+-88.257950669045812,40.123956246964156,139,1,0,2012,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.238636422697397,40.102707404293746,140,1,0,2012,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,A-Injury
+-88.258020355006977,40.135867330440249,141,1,0,2013,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.276336703034033,40.098263853261976,142,1,0,2013,Pedestrian,Clear,Daylight,Wet,No Controls,Champaign,A-Injury
+-88.242645380866719,40.116378468669922,143,1,0,2013,Pedestrian,Rain,Darkness,Wet,Traffic Signal,Champaign,A-Injury
+-88.208925753673086,40.111597511913409,144,1,0,2013,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Urbana,C-Injury
+-88.223875819912308,40.107017611645709,145,2,0,2013,Pedestrian,Rain,"Darkness, lighted road",Wet,Stop Sign/Flasher,Urbana,B-Injury
+-88.219255756185532,40.10647751180462,146,1,0,2013,Pedestrian,Rain,Darkness,Wet,No Controls,Urbana,C-Injury
+-88.225357769630378,40.107008770486651,147,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,C-Injury
+-88.242086787444165,40.117787761677036,148,1,0,2013,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Champaign,A-Injury
+-88.209464747512655,40.10452647290694,149,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,A-Injury
+-88.13887977262803,40.380316482440307,150,1,0,2013,Pedestrian,Clear,Daylight,Snow or Slush,Lane Use Marking,Unincorporated,A-Injury
+-88.275495772253322,40.11005389765716,151,1,0,2013,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,A-Injury
+-88.170261022804723,40.107213257118993,152,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,C-Injury
+-88.268905750382501,40.127329076939837,153,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.276815771881004,40.116470980681399,154,1,0,2013,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,C-Injury
+-88.225696619848307,40.116407512903507,155,1,0,2013,Pedestrian,Rain,"Darkness, lighted road",Wet,No Controls,Urbana,B-Injury
+-88.278725851105762,40.112857509499094,156,2,0,2013,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.136526442720296,40.31212755265382,157,1,0,2013,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Rantoul,B-Injury
+-88.193848637503919,40.309868691932728,158,1,0,2013,Pedestrian,Clear,Daylight,Dry,Police/Flagman,Rantoul,B-Injury
+-88.243725765621889,40.137977515758564,159,1,0,2013,Pedestrian,Clear,Daylight,NA,No Controls,Champaign,B-Injury
+-88.257415591414755,40.098157507654733,160,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.164848518798252,40.288252144450482,161,1,0,2013,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Rantoul,B-Injury
+-88.230406206306355,40.109147625611705,162,1,0,2013,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,A-Injury
+-88.335150967109328,40.177204291639981,163,1,0,2013,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Unincorporated,B-Injury
+-88.219485039199881,40.120077738269337,164,1,0,2013,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,B-Injury
+-88.233805764016324,40.126127696163628,165,1,0,2013,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.273005839771969,40.139561723991214,166,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.257755765733307,40.108139751222133,167,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.239785602550086,40.110217168530703,168,1,0,2013,Pedestrian,Rain,Daylight,Wet,No Controls,Champaign,C-Injury
+-88.243475781316576,40.110230171041444,169,1,0,2013,Pedestrian,Sleet/Hail,"Darkness, lighted road",Wet,Traffic Signal,Champaign,B-Injury
+-88.190675745783523,40.094767510356355,170,1,0,2013,Pedestrian,Rain,"Darkness, lighted road",Wet,Stop Sign/Flasher,Urbana,B-Injury
+-88.281284599219347,40.106147516701682,171,1,0,2013,Pedestrian,Clear,Daylight,Wet,No Controls,Champaign,B-Injury
+-88.241446273258106,40.098057516982273,172,1,0,2013,Pedestrian,Clear,NA,NA,No Controls,Champaign,B-Injury
+-88.178264735667952,40.112999353524472,173,1,0,2013,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,C-Injury
+-88.219225674231325,40.104643667376571,174,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.272576760208807,40.112809579699494,175,1,0,2013,Pedestrian,Clear,Darkness,Dry,Lane Use Marking,Champaign,A-Injury
+-88.257495222890952,40.08360749842322,176,1,0,2013,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,C-Injury
+-88.365315804948352,40.194466781366394,177,1,0,2013,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,B-Injury
+-88.276673213155618,40.108814114846396,178,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.224025757293646,40.116407513314606,179,1,0,2013,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.390323021599102,40.178638026918371,180,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Mahomet,C-Injury
+-88.275507270806045,40.130244776927896,181,1,0,2013,Pedestrian,Clear,Dusk,Dry,No Controls,Champaign,B-Injury
+-88.219305819359704,40.109102288873146,182,1,0,2013,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Urbana,B-Injury
+-88.201880629110079,40.103691739423539,183,1,0,2013,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,C-Injury
+-88.238675760331034,40.105377510268696,184,1,0,2013,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Champaign,B-Injury
+-88.219385966366517,40.112837669391418,185,1,0,2013,Pedestrian,Other,Dawn,Dry,Traffic Signal,Urbana,B-Injury
+-88.286094578087784,40.102409260291097,186,1,0,2013,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.243649737666559,40.131373601814673,187,1,0,2013,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,C-Injury
+-88.293175659856857,40.077199039996231,188,1,0,2013,Pedestrian,Rain,Darkness,Wet,No Controls,Champaign,C-Injury
+-88.248286699411096,40.109017620532967,189,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.281748081206786,40.098347529734369,190,1,0,2014,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,A-Injury
+-88.257781480007438,40.109761486490562,191,0,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,Property Damage
+-88.282613812890432,40.097193502322675,192,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.2364119876312,40.127408840231304,193,1,0,2014,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Champaign,A-Injury
+-88.281083902232638,40.103221778962194,194,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.26271576953026,40.12723751297991,195,1,0,2014,Pedestrian,Clear,Darkness,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.238715719389091,40.110239226650869,196,1,0,2014,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,C-Injury
+-88.266509932678943,40.12729156195438,197,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.272335362396561,40.098247502500641,198,1,0,2014,Pedestrian,Clear,"Darkness, lighted road",Wet,Lane Use Marking,Champaign,A-Injury
+-88.259115798419558,40.138086671892594,199,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.240914902733579,40.127219101392562,200,1,0,2014,Pedestrian,Clear,Daylight,Dry,Other,Champaign,B-Injury
+-88.246875765495247,40.127199856363511,201,1,0,2014,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,A-Injury
+-88.257910809042301,40.118279786852398,202,1,0,2014,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,C-Injury
+-88.276774487922751,40.112857494309125,203,1,0,2014,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.230583699675606,40.109144356480392,204,1,0,2014,Pedestrian,Clear,Daylight,Unknown,No Controls,Champaign,B-Injury
+-88.274723085622696,40.141623783335,205,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,A-Injury
+-88.2384452692595,40.083328483910954,206,1,0,2014,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Unincorporated,A-Injury
+-88.223865756304534,40.10596751119251,207,1,0,2014,Pedestrian,Rain,Daylight,Wet,Stop Sign/Flasher,Urbana,C-Injury
+-88.238524886036444,40.098047517271645,208,1,0,2014,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,A-Injury
+-88.238656509866289,40.104107507234872,209,1,0,2014,Pedestrian,Clear,Darkness,Dry,Stop Sign/Flasher,Champaign,C-Injury
+-88.255509457800571,40.142637041183605,210,1,0,2014,Pedestrian,Rain,"Darkness, lighted road",Wet,Lane Use Marking,Champaign,B-Injury
+-88.209025753534107,40.11651751354561,211,1,0,2014,Pedestrian,Clear,"Darkness, lighted road",Snow or Slush,Traffic Signal,Urbana,B-Injury
+-88.202613440615352,40.105664458438049,212,1,0,2014,Pedestrian,Snow,"Darkness, lighted road",Snow or Slush,No Controls,Urbana,B-Injury
+-88.219225755751523,40.104647511439175,213,1,0,2014,Pedestrian,Clear,Daylight,Dry,Other,Urbana,A-Injury
+-88.167307459180293,40.111269189991191,214,1,0,2014,Pedestrian,Clear,Darkness,Wet,No Controls,Urbana,A-Injury
+-88.207115770461684,40.088367683571498,215,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,C-Injury
+-88.215683689736693,40.116461520747862,216,1,0,2014,Pedestrian,Rain,Daylight,Wet,Traffic Signal,Urbana,C-Injury
+-88.200418272569962,40.125437722120971,217,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,A-Injury
+-88.219305770428093,40.10909862053277,218,1,0,2014,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Urbana,B-Injury
+-88.200148707541999,40.122074371276526,219,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.20940575001822,40.083737508103212,220,1,0,2014,Pedestrian,Clear,Dawn,Dry,Stop Sign/Flasher,Urbana,B-Injury
+-88.212824414446487,40.116497332064561,221,1,0,2014,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.215685625262097,40.116461465066656,222,1,0,2014,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.140500321535157,40.305593118261271,223,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Rantoul,B-Injury
+-88.142530466440888,40.311142595498517,224,1,0,2014,Pedestrian,Clear,Daylight,Dry,No Controls,Rantoul,B-Injury
+-88.139503829216139,40.37905295278771,225,2,0,2014,Pedestrian,Clear,Daylight,Ice,Lane Use Marking,Unincorporated,A-Injury
+-87.983925645346375,40.119975093931799,226,1,0,2014,Pedestrian,Rain,Daylight,Unknown,Lane Use Marking,Unincorporated,B-Injury
+-88.033644770763416,40.239580582174661,227,1,0,2014,Pedestrian,Fog/Smoke/Haze,Darkness,Ice,Other Warning Sign,Unincorporated,A-Injury
+-88.287950006063042,40.127546735566,228,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.243524059963036,40.112750048911096,229,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.246934423215876,40.134758575508386,230,0,1,2005,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Champaign,Fatal
+-88.246981216362443,40.134758646369768,231,1,0,2005,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Champaign,A-Injury
+-88.136445436579749,40.34221238586855,232,1,0,2005,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,B-Injury
+-88.238811893466433,40.124149843512974,233,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,A-Injury
+-88.268913762549019,40.130304428875519,234,1,0,2005,Pedestrian,Rain,Darkness,Wet,No Controls,Champaign,B-Injury
+-88.209604639529516,40.141587991532532,235,1,0,2005,Pedestrian,Snow,"Darkness, lighted road",Ice,No Controls,Unincorporated,B-Injury
+-88.281281432572669,40.106128659643495,236,1,0,2005,Pedestrian,Clear,Daylight,Dry,School Zone,Champaign,B-Injury
+-88.238711616084473,40.11092091476096,237,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.204916404848362,40.107649403371106,238,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,C-Injury
+-88.23213155567143,40.124176387866761,239,1,0,2005,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.230336822329122,40.10687739613298,240,0,1,2005,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,Fatal
+-88.228820560642916,40.105521648933973,241,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Dry,Other Regualtory Sig,Champaign,C-Injury
+-88.228816097439889,40.106925967205179,242,1,0,2005,Pedestrian,Snow,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.188702864765673,40.105274986824305,243,1,0,2005,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,B-Injury
+-88.243484848197681,40.110199054005435,244,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.243487344862245,40.110200331320755,245,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,B-Injury
+-88.257524607485109,40.08971494629791,246,1,0,2005,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.219371347278496,40.112831193020362,247,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Wet,Traffic Signal,Urbana,B-Injury
+-88.257852150572106,40.118265664865,248,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.223967125214756,40.112782487780585,249,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.204976466346452,40.112525409729713,250,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,B-Injury
+-88.207623873851659,40.112488275119354,251,1,0,2005,Pedestrian,Rain,Daylight,Wet,No Controls,Urbana,A-Injury
+-88.220680681381367,40.112815134154864,252,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Unknown,No Controls,Urbana,B-Injury
+-88.194584403918569,40.114002107674921,253,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.257852347213841,40.118265033618435,254,1,0,2005,Pedestrian,Clear,Darkness,Wet,Traffic Signal,Champaign,C-Injury
+-88.196189820735583,40.116290630753042,255,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.167865894668921,40.113338475494622,256,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,A-Injury
+-88.215699771937309,40.116469899230061,257,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Wet,Traffic Signal,Urbana,B-Injury
+-88.209026318242209,40.11653275718507,258,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.243548970177699,40.122134752194881,259,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.25180956947996,40.125547490020487,260,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.262703644660448,40.127246986623675,261,1,0,2005,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,C-Injury
+-88.268454684522183,40.127324834300666,262,1,0,2005,Pedestrian,Clear,Daylight,Dry,Other Warning Sign,Champaign,C-Injury
+-88.276962873149245,40.127430977381245,263,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.286051488904192,40.112943744064012,264,1,0,2005,Pedestrian,Clear,Dusk,Dry,Traffic Signal,Champaign,B-Injury
+-88.272413832735381,40.112816410973643,265,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.278439097138687,40.111059197453443,266,1,0,2005,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.230247325679173,40.110311893763019,267,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,B-Injury
+-88.240305653463963,40.110225883938682,268,1,0,2005,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.233590715557,40.110278234063649,269,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.273438256771712,40.105093616745656,270,0,1,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,Fatal
+-88.229212472092684,40.104195194403772,271,1,0,2005,Pedestrian,Rain,"Darkness, lighted road",Wet,No Controls,Champaign,B-Injury
+-88.230285623850605,40.104194775236898,272,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.238298557540006,40.104112748521956,273,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.243845803232546,40.102705519175316,274,1,0,2005,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.22010863067058,40.099394070517285,275,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.222108635709787,40.098156995898712,276,1,0,2005,Pedestrian,Clear,Daylight,Dry,Other,Urbana,A-Injury
+-88.253435145302845,40.094086033406185,277,1,0,2005,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.19850892097287,40.083773955238833,278,1,0,2005,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,B-Injury
+-88.233335463916902,40.09810827237326,279,1,0,2007,Pedestrian,Clear,Dusk,Wet,Unknown,Champaign,B-Injury
+-88.232053509853571,40.10544084466634,280,1,0,2007,Pedestrian,Rain,Daylight,Wet,Unknown,Champaign,C-Injury
+-88.232065862187625,40.107987382795855,281,1,0,2007,Pedestrian,Fog/Smoke/Haze,Darkness,Ice,Unknown,Champaign,A-Injury
+-88.211962078428087,40.098276489022034,282,0,1,2007,Pedestrian,Clear,"Darkness, lighted road",Dry,Unknown,Urbana,Fatal
+-88.201934836895816,40.122030730191462,283,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Urbana,A-Injury
+-88.205000954686398,40.116286779064559,284,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Urbana,A-Injury
+-88.253206051309377,40.127207970838306,285,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,B-Injury
+-88.268906947554456,40.127319716529186,286,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,A-Injury
+-88.219514338006363,40.120098234576972,287,1,0,2007,Pedestrian,Clear,Dusk,Dry,Unknown,Urbana,A-Injury
+-88.219405811170276,40.112850997478525,288,0,0,2007,Pedestrian,Rain,"Darkness, lighted road",Wet,Unknown,Urbana,Property Damage
+-88.225625476845408,40.112810195017239,289,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Urbana,B-Injury
+-88.262564774943925,40.116358083831457,290,1,0,2007,Pedestrian,Clear,Darkness,Dry,Unknown,Champaign,A-Injury
+-88.243501739940029,40.111637466449402,291,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,B-Injury
+-88.25793223717011,40.118288048754387,292,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,B-Injury
+-88.257895812670228,40.116316237353701,293,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,C-Injury
+-88.208924766736686,40.112499060607284,294,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Urbana,A-Injury
+-88.245239015444525,40.118318400947622,295,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,A-Injury
+-88.267344308122787,40.116378047415608,296,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,C-Injury
+-88.246866279993981,40.1183166139364,297,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,C-Injury
+-88.246893941516007,40.125487040373677,298,0,1,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,Fatal
+-88.219503411559003,40.120646175806527,299,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Urbana,A-Injury
+-88.21925659478876,40.105986596723582,300,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Urbana,A-Injury
+-88.245357131597359,40.131431746003948,301,1,0,2007,Pedestrian,Clear,Darkness,Dry,Unknown,Champaign,B-Injury
+-88.243617008662454,40.129647037211036,302,1,0,2007,Pedestrian,Clear,"Darkness, lighted road",Wet,Unknown,Champaign,B-Injury
+-88.229108542277743,40.107998937128983,303,1,0,2007,Pedestrian,Clear,Daylight,Wet,Unknown,Champaign,C-Injury
+-88.238724002322442,40.110788133989985,304,1,0,2007,Pedestrian,Rain,"Darkness, lighted road",Wet,Unknown,Champaign,C-Injury
+-88.271746945768641,40.128739436666336,305,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,C-Injury
+-88.191482616278535,40.101677493057643,306,1,0,2007,Pedestrian,Clear,Daylight,Other,Unknown,Urbana,B-Injury
+-88.287922722114132,40.091488254836833,307,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,B-Injury
+-88.267038821287741,40.127466369651408,308,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,B-Injury
+-88.228396620178103,40.110384777501466,309,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Urbana,B-Injury
+-88.240404116169316,40.110208244111078,310,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,C-Injury
+-88.25009428303278,40.118112557501853,311,1,0,2007,Pedestrian,Rain,Daylight,Wet,Unknown,Champaign,A-Injury
+-88.221716126266841,40.109087528598032,312,1,0,2007,Pedestrian,Clear,Daylight,Unknown,Unknown,Urbana,A-Injury
+-88.208860827145699,40.108953292655634,313,1,0,2007,Pedestrian,Clear,Daylight,Wet,Unknown,Urbana,C-Injury
+-88.246679433861445,40.116348479081346,314,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,C-Injury
+-88.236950400725505,40.110267676346588,315,1,0,2007,Pedestrian,Rain,"Darkness, lighted road",Wet,Unknown,Champaign,B-Injury
+-88.235111468134861,40.119327726654539,316,2,0,2007,Pedestrian,Clear,"Darkness, lighted road",Dry,Unknown,Champaign,C-Injury
+-88.26818580656267,40.127316874917298,317,0,1,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,Fatal
+-88.230416022227118,40.109420171736375,318,2,0,2007,Pedestrian,Clear,"Darkness, lighted road",Dry,Unknown,Champaign,B-Injury
+-88.266462011079298,40.098414367354337,319,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,B-Injury
+-88.265516676624316,40.127335992210241,320,1,0,2007,Pedestrian,Clear,Daylight,Dry,Unknown,Champaign,B-Injury
+-88.152376980530775,40.308226385173398,326,1,0,2008,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Rantoul,C-Injury
+-88.153712454807334,40.306979704650779,327,1,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Rantoul,C-Injury
+-88.281762527809434,40.112888253486616,328,1,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.230325774012471,40.116371499476017,329,1,0,2008,Pedestrian,Clear,Daylight,Wet,No Controls,Champaign,B-Injury
+-88.214462610556609,40.118348537428936,330,1,0,2008,Pedestrian,Rain,"Darkness, lighted road",Wet,Stop Sign/Flasher,Urbana,A-Injury
+-88.228937290593592,40.116406741507859,331,1,0,2008,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Champaign,B-Injury
+-88.257909220308235,40.118276953415901,332,1,0,2008,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,A-Injury
+-88.239676663810272,40.124937879563127,333,1,0,2008,Pedestrian,Clear,Daylight,Snow or Slush,No Controls,Champaign,B-Injury
+-88.235050567785862,40.110280416999167,334,1,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.230455033837515,40.112688044168507,335,1,0,2008,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,B-Injury
+-88.235363898643598,40.119334268202252,336,1,0,2008,Pedestrian,Clear,Dusk,Dry,Unknown,Champaign,C-Injury
+-88.239114758651738,40.149397521495423,337,1,0,2008,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,C-Injury
+-88.241445756864579,40.098056888764397,338,1,0,2008,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.15234671867664,40.306998298869189,339,0,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Rantoul,Property Damage
+-88.162395467226062,40.095855012204652,340,0,1,2008,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,Fatal
+-88.205007017525347,40.112455912706224,341,1,0,2008,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Urbana,B-Injury
+-88.202650631402108,40.105663248633093,342,1,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.228432386105695,40.110381083137227,343,1,0,2008,Pedestrian,Clear,Daylight,Ice,No Controls,Urbana,A-Injury
+-88.223864352500684,40.105967456610585,344,1,0,2008,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Urbana,B-Injury
+-88.238926518225696,40.135266477316179,345,1,0,2008,Pedestrian,Rain,Daylight,Wet,Stop Sign/Flasher,Champaign,B-Injury
+-88.257963989114657,40.126286268782678,346,1,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.246874540029168,40.120218843817632,347,1,0,2008,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,A-Injury
+-88.281276276816683,40.105600444770033,348,1,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.223994697468726,40.112818634239126,349,1,0,2008,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.136497484703341,40.310430552595101,350,2,0,2008,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Rantoul,B-Injury
+-88.218251443628773,40.110611418050588,351,1,0,2008,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,A-Injury
+-88.276998324903531,40.130752935939547,352,1,0,2008,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.28579483056285,40.098387756548284,353,1,0,2008,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.365043508630578,40.207377746756634,354,3,0,2008,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,B-Injury
+-88.257994815221707,40.146526472696138,355,1,0,2008,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,B-Injury
+-88.245224306647529,40.117367167732453,356,1,0,2008,Pedestrian,Rain,Daylight,Wet,Traffic Signal,Champaign,B-Injury
+-88.376318054572096,40.196801505005503,357,1,0,2008,Pedestrian,Clear,Darkness,Dry,Lane Use Marking,Mahomet,B-Injury
+-88.262535164240077,39.986407440295636,358,1,0,2008,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Tolono,C-Injury
+-88.28601568401541,40.109316257010285,359,1,0,2008,Pedestrian,Rain,Daylight,Wet,Stop Sign/Flasher,Champaign,C-Injury
+-88.232056223510298,40.110307503046997,360,1,0,2008,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,A-Injury
+-88.219136349415933,40.100656560987829,361,1,0,2008,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Urbana,B-Injury
+-88.215625042828179,40.116457663303443,362,1,0,2008,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,A-Injury
+-88.207416319469033,40.112467906324312,363,0,0,2008,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,Property Damage
+-88.23357611714718,40.11028837977436,364,1,0,2008,Pedestrian,Snow,Daylight,Snow or Slush,Traffic Signal,Champaign,C-Injury
+-88.295164544170859,40.088687739346305,365,1,0,2008,Pedestrian,Clear,Daylight,Wet,No Controls,Champaign,A-Injury
+-88.24353446424783,40.121127120808197,366,1,0,2008,Pedestrian,Clear,Dusk,Dry,Traffic Signal,Champaign,B-Injury
+-88.24961460372252,40.098105616711031,367,1,0,2008,Pedestrian,Clear,Dusk,Dry,No Controls,Champaign,B-Injury
+-88.277197230562436,40.137513535743842,368,1,0,2008,Pedestrian,Snow,Dusk,Snow or Slush,No Controls,Champaign,B-Injury
+-88.208874874456882,40.109227958862739,369,1,0,2008,Pedestrian,Rain,"Darkness, lighted road",Wet,Stop Sign/Flasher,Urbana,B-Injury
+-88.214435758789264,40.116467769354855,370,0,1,2009,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,Fatal
+-88.19376700611447,40.134553272705858,371,1,0,2009,Pedestrian,Clear,Darkness,Dry,Lane Use Marking,Urbana,C-Injury
+-88.296142986439691,40.109362042026632,372,1,0,2009,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,A-Injury
+-88.25763531055226,40.098157491136348,373,1,0,2009,Pedestrian,Clear,Daylight,Wet,Traffic Signal,Champaign,B-Injury
+-88.233496220297212,40.104147212295651,374,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,B-Injury
+-88.297353986195759,40.090767906812182,375,1,0,2009,Pedestrian,Snow,Daylight,Snow or Slush,No Controls,Unincorporated,B-Injury
+-88.282835214429582,40.112898865475003,376,2,0,2009,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,C-Injury
+-88.281284174993601,40.106149698601712,377,2,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.254119501452678,40.112657334193116,378,1,0,2009,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,A-Injury
+-88.24515800294229,40.112872201727875,379,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.243514834669071,40.116367077871097,380,1,0,2009,Pedestrian,Unknown,Daylight,Wet,Traffic Signal,Champaign,C-Injury
+-88.26892523433888,40.129907462496121,381,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,B-Injury
+-88.245047217419483,40.112596985397424,382,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,B-Injury
+-88.365325949880742,40.198063436348292,383,0,1,2009,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,Fatal
+-88.226495661589084,40.112764810649047,384,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,School Zone,Urbana,B-Injury
+-88.205007024206438,40.112457303935095,385,1,0,2009,Pedestrian,Clear,Daylight,Unknown,Traffic Signal,Urbana,C-Injury
+-88.20497444619501,40.116327098653663,386,1,0,2009,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,B-Injury
+-88.23540532831251,40.11127726735014,387,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.245394069700609,40.122156946119425,388,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.203711779839153,40.105647315625845,389,1,0,2009,Pedestrian,Clear,Daylight,Wet,No Controls,Urbana,C-Injury
+-88.258925444252469,39.98607945303079,390,1,0,2009,Pedestrian,Other,Daylight,Dry,No Controls,Tolono,B-Injury
+-88.246854721831198,40.116348393779589,391,1,0,2009,Pedestrian,Clear,Daylight,Dry,Police/Flagman,Champaign,C-Injury
+-88.349654430933697,40.315723129122802,392,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Fisher,A-Injury
+-88.252168648130933,40.142403647012955,393,1,0,2009,Pedestrian,Clear,Daylight,Unknown,No Controls,Champaign,B-Injury
+-88.276605404874402,40.104574833088066,394,1,0,2009,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,A-Injury
+-88.206314628010389,40.112487686177204,395,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,B-Injury
+-88.207684456708904,40.124796743655111,396,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,C-Injury
+-88.219325217298064,40.110577063642168,397,1,0,2009,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,B-Injury
+-88.219325212314274,40.110576622498002,398,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Urbana,B-Injury
+-88.238821189611514,40.125617482563413,399,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.219486959784973,40.12370339798322,400,1,0,2009,Pedestrian,Unknown,Daylight,Dry,Unknown,Urbana,B-Injury
+-88.223881822900566,40.135064956149208,401,0,1,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,Lane Use Marking,Urbana,Fatal
+-88.276994788550297,40.127417776336898,402,1,0,2009,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.223864359038117,40.105967838736476,403,1,0,2009,Pedestrian,Rain,Daylight,Wet,Stop Sign/Flasher,Urbana,C-Injury
+-88.204604469471022,40.112487704569226,404,1,0,2009,Pedestrian,Rain,Daylight,Wet,No Controls,Urbana,A-Injury
+-88.238696998547084,40.107954388830713,405,1,0,2009,Pedestrian,Clear,Daylight,Dry,Other Warning Sign,Champaign,A-Injury
+-88.237027896183804,40.112646787747252,406,1,0,2009,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,C-Injury
+-88.233568441701891,40.116362959541327,407,1,0,2009,Pedestrian,Rain,Darkness,Wet,Traffic Signal,Champaign,A-Injury
+-88.223748017500156,40.095933913096729,408,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,B-Injury
+-88.225615395351227,40.112777194090597,409,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,Other,Urbana,B-Injury
+-88.228767000774909,40.117367361872354,410,2,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,A-Injury
+-88.021395555432065,40.309528921613804,411,1,0,2009,Pedestrian,Clear,Daylight,Dry,No Controls,Gifford,C-Injury
+-88.198997119073624,40.116336162024034,412,1,0,2009,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,B-Injury
+-88.24347584998965,40.11022879030385,413,1,0,2009,Pedestrian,Rain,"Darkness, lighted road",Wet,Other,Champaign,B-Injury
+-88.235405024765882,40.110278357532231,414,1,0,2009,Pedestrian,Clear,"Darkness, lighted road",Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.410362177899714,40.200230355364276,415,0,1,2006,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Mahomet,Fatal
+-88.400906862432265,40.194339522750582,416,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Mahomet,A-Injury
+-88.234760060115931,40.18553021061156,417,1,0,2006,Pedestrian,Clear,Darkness,Dry,No Controls,Unincorporated,B-Injury
+-88.072360764029909,40.11339020483706,418,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,B-Injury
+-88.152447564078699,40.069355644181044,419,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Unincorporated,B-Injury
+-88.203555501493696,40.118987934320849,420,2,0,2006,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,B-Injury
+-88.19058786426001,40.091507940810111,421,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,A-Injury
+-88.281281889326209,40.106148060388932,422,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.273165143370974,40.139347762830205,423,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,C-Injury
+-88.205003989700202,40.113575718718579,424,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,A-Injury
+-88.205004849299584,40.103697776378425,425,1,0,2006,Pedestrian,Rain,Daylight,Wet,School Zone,Urbana,B-Injury
+-88.233583413652141,40.109098017164001,426,1,0,2006,Pedestrian,Clear,Darkness,Wet,No Controls,Champaign,A-Injury
+-88.233522751693712,40.10542138401091,427,1,0,2006,Pedestrian,Rain,Darkness,Wet,Other Warning Sign,Champaign,A-Injury
+-88.23357728797528,40.107978374952971,428,1,0,2006,Pedestrian,Rain,Daylight,Wet,Traffic Signal,Champaign,B-Injury
+-88.230455463240233,40.111539071335322,429,1,0,2006,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,C-Injury
+-88.230456917307322,40.110327168340646,430,1,0,2006,Pedestrian,Clear,"Darkness, lighted road",Dry,Traffic Signal,Champaign,B-Injury
+-88.228948192119972,40.11149543128839,431,1,0,2006,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,B-Injury
+-88.243626582945069,40.128449225063967,432,1,0,2006,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Champaign,A-Injury
+-88.243536683585162,40.12122072981672,433,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.24842122692371,40.143739770423622,434,1,0,2006,Pedestrian,Clear,Darkness,Dry,No Controls,Champaign,A-Injury
+-88.245216746631954,40.11635703746213,435,1,0,2006,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,C-Injury
+-88.24524583289319,40.127187388285897,436,1,0,2006,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Champaign,B-Injury
+-88.246852645878633,40.116349247056242,437,1,0,2006,Pedestrian,Rain,Daylight,Wet,Traffic Signal,Champaign,A-Injury
+-88.219258070757078,40.105984324949347,438,2,0,2006,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Urbana,A-Injury
+-88.219312282527625,40.110594197144756,439,1,0,2006,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,C-Injury
+-88.223994868829223,40.112818570439835,440,1,0,2006,Pedestrian,Rain,Daylight,Wet,Traffic Signal,Urbana,B-Injury
+-88.223874974967046,40.107019276855915,441,1,0,2006,Pedestrian,Clear,Daylight,Dry,Stop Sign/Flasher,Urbana,B-Injury
+-88.272466313864555,40.120041603594785,442,1,0,2006,Pedestrian,Clear,Dusk,Dry,No Controls,Champaign,A-Injury
+-88.276467322325644,40.102375917552301,443,1,0,2006,Pedestrian,Rain,Darkness,Wet,No Controls,Champaign,B-Injury
+-88.216055930623497,40.11278804420305,444,3,0,2006,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,A-Injury
+-88.21940531187343,40.112848105838076,445,1,0,2006,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Urbana,C-Injury
+-88.236891223024926,40.11932631525935,446,1,0,2006,Pedestrian,Clear,"Darkness, lighted road",Wet,No Controls,Champaign,A-Injury
+-88.209025835199654,40.116516649198893,447,1,0,2006,Pedestrian,Clear,Darkness,Dry,Traffic Signal,Urbana,B-Injury
+-88.221856873249052,40.120082608580518,448,5,0,2006,Pedestrian,Rain,Darkness,Wet,No Controls,Urbana,B-Injury
+-88.26524949784141,40.127326725002355,449,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.237030573805725,40.130381466274507,450,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,A-Injury
+-88.184430150880971,40.142036122427456,451,0,1,2006,Pedestrian,Clear,Darkness,Dry,No Controls,Urbana,Fatal
+-88.270702371971268,40.146385398190496,452,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Champaign,B-Injury
+-88.2255566201938,40.110567366083984,453,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,C-Injury
+-88.229284707103361,40.112654720357988,454,1,0,2006,Pedestrian,Clear,Daylight,Dry,Lane Use Marking,Champaign,B-Injury
+-88.286959151553901,40.112934968720587,455,1,0,2006,Pedestrian,Clear,Darkness,Dry,Lane Use Marking,Champaign,A-Injury
+-88.238715301683769,40.110240089098063,456,1,0,2006,Pedestrian,Rain,"Darkness, lighted road",Wet,Traffic Signal,Champaign,C-Injury
+-88.243494476071845,40.110229310127487,457,1,0,2006,Pedestrian,Clear,Daylight,Dry,Traffic Signal,Champaign,C-Injury
+-88.237066153122555,40.110267652924406,458,1,0,2006,Pedestrian,Rain,Darkness,Wet,No Controls,Champaign,B-Injury
+-88.221882393861733,40.10415888504285,459,1,0,2006,Pedestrian,Rain,"Darkness, lighted road",Wet,Stop Sign/Flasher,Urbana,B-Injury
+-88.194704720152771,40.094748430999637,460,1,0,2006,Pedestrian,Clear,"Darkness, lighted road",Dry,No Controls,Urbana,B-Injury
+-88.194491251486909,40.094753899723379,461,1,0,2006,Pedestrian,Clear,Daylight,Dry,No Controls,Urbana,C-Injury
